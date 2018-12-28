@@ -1,3 +1,4 @@
 # leetCodeSolution
-Solutions for LeetCode problems 
-LeetCode答案
+Solutions for LeetCode problems 。
+
+LeetCode答案。
